@@ -21,9 +21,6 @@
 -   <summary><h2>📸 My Latest YouTube Videos</h2></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![SQL Server Java Bağlantısı nasıl yapılır?](https://i.ytimg.com/an_webp/2GRvWrgYbjU/mqdefault_6s.webp?du=3000&sqp=CLW34rkG&rs=AOn4CLB1JfoYvCZy9K7lyXEQohHilfHVdg)](https://www.youtube.com/watch?v=2GRvWrgYbjU&t=139s)
-[![SQL Kurulum Sorunu Çözümü](https://i.ytimg.com/an_webp/4E1Ce-z4pnk/mqdefault_6s.webp?du=3000&sqp=CMex4rkG&rs=AOn4CLBANR1xTGzpqxEkFKkkHNHkb-4wRg)](https://www.youtube.com/watch?v=4E1Ce-z4pnk&t=50s)
-
 <!-- END YOUTUBE-CARDS -->
 <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
 <h3 align="left">Connect with me:</h3>
