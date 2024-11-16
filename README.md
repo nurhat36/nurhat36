@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2F9-best-free-online-data-science-courses-2020-bernard-marr&psig=AOvVaw3GOpP-PcCB0k1x6JMgHaZ8&ust=1731844720181000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjjy8fm4IkDFQAAAAAdAAAAABAE)
+[![MasterHead](https://media.licdn.com/dms/image/v2/C4D12AQGD_su1k14bYA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1583217311227?e=1736985600&v=beta&t=5CmJjRUhz0AarOYg5bjUYwEZCTFcoY4vvXhDvFYvkPQ)
 <h1 align="center">Merhaba 👋, ben Nurhat Baydağ</h1>
 <h3 align="center">Türkiye'den tutkulu bir Veri Bilimcisi</h3>
 
