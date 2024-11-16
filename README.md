@@ -14,7 +14,7 @@
 
 
 
-- 🔭 I’m currently working on **java**
+- 🔭 I’m currently working on **Python**
 
 - 📫 How to reach me **baydagnurhat31@gmail.com**
 <picture>
