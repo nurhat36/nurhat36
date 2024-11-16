@@ -21,6 +21,12 @@ jobs:
       # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2
 
+      # Set up Node.js (updated to v16)
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'  # Use the latest stable Node.js version or the one that is compatible with your project
+
       # Generates the snake
       - uses: Platane/snk@master
         id: snake-gif
