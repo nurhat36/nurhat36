@@ -8,9 +8,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nurhat baydağ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurhat baydağ" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nurhat-bayda%C4%9F-7a38532a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurhat baydağ" height="30" width="40" /></a>
 <a href="https://kaggle.com/nurhatbayda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nurhatbayda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nurhat baydağ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nurhat baydağ" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@NurhatBayda%C4%9F-t4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nurhat baydağ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
