@@ -1,5 +1,6 @@
 name: Generate Snake
 
+
 on:
   schedule:
     # every 6 hours
