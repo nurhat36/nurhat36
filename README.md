@@ -21,7 +21,10 @@
 -   <summary><h2>📸 My Latest YouTube Videos</h2></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![SQL Server Java Bağlantısı nasıl yapılır?](https://ytcards.demolab.com/?id=2GRvWrgYbjU&title=SQL+Server+Java+Ba%C4%9Flant%C4%B1s%C4%B1+nas%C4%B1l+yap%C4%B1l%C4%B1r%3F&lang=en&timestamp=1729515166&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "SQL Server Java Bağlantısı nasıl yapılır?")](https://www.youtube.com/watch?v=2GRvWrgYbjU)
+[![SQL Kurulum Sorunu Çözümü](https://ytcards.demolab.com/?id=4E1Ce-z4pnk&title=SQL+Kurulum+Sorunu+%C3%87%C3%B6z%C3%BCm%C3%BC&lang=en&timestamp=1728916499&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "SQL Kurulum Sorunu Çözümü")](https://www.youtube.com/watch?v=4E1Ce-z4pnk)
+[![Kanal Tanıtımı](https://ytcards.demolab.com/?id=kx_OTitQYsc&title=Kanal+Tan%C4%B1t%C4%B1m%C4%B1&lang=en&timestamp=1728916172&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Kanal Tanıtımı")](https://www.youtube.com/watch?v=kx_OTitQYsc)
+[![yapay zeka ve teknoloji akademisi icin tanıtım](https://ytcards.demolab.com/?id=ziPVaWTbhbc&title=yapay+zeka+ve+teknoloji+akademisi+icin+tan%C4%B1t%C4%B1m&lang=en&timestamp=1724942997&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "yapay zeka ve teknoloji akademisi icin tanıtım")](https://www.youtube.com/watch?v=ziPVaWTbhbc)
 <!-- END YOUTUBE-CARDS -->
 <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
 <h3 align="left">Connect with me:</h3>
