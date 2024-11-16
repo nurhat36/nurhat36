@@ -2,15 +2,25 @@
 <h1 align="center">Hi 👋, I'm Nurhat Baydağ</h1>
 <h3 align="center">A passionate Data Scientist from Turkey</h3>
 
+
+<div align="center">
+ <a href="https://github.com/CagatayAkkas">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Nurhat+BAYDAĞ+%e2%9c%a8;%f0%9f%93%9a+DATA+Scientist+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+ </a>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurhat36&label=Profile%20views&color=0e75b6&style=flat" alt="nurhat36" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurhat36" alt="nurhat36" /></a> </p>
 
+- 🔭 I’m currently working on **java**
+
+- 📫 How to reach me **baydagnurhat31@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nurhat-bayda%C4%9F-7a38532a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurhat baydağ" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nurhat baydağ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurhat baydağ" height="30" width="40" /></a>
 <a href="https://kaggle.com/nurhatbayda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nurhatbayda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@NurhatBayda%C4%9F-t4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nurhat baydağ" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/nurhat baydağ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nurhat baydağ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurhat36&show_icons=true&locale=en" alt="nurhat36" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurhat36&" alt="nurhat36" /></p>
-
