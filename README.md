@@ -70,7 +70,7 @@
  <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurhat36&theme=material-palenight&hide_border=false" alt="CagatayAkkas" width="55%" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurhat36&theme=material-palenight&hide_border=false" alt="NurhatBaydag" width="55%" />
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
