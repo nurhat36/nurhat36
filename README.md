@@ -1,11 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/C4D12AQGD_su1k14bYA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1583217311227?e=1736985600&v=beta&t=5CmJjRUhz0AarOYg5bjUYwEZCTFcoY4vvXhDvFYvkPQ)
 <h1 align="center">Hi 👋, I'm Nurhat Baydağ</h1>
 <h3 align="center">A passionate Data Scientist from Turkey</h3>
-
-
-
-
-
 <div align="center">
  <a href="https://github.com/CagatayAkkas">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Nurhat+BAYDAĞ+%e2%9c%a8;%f0%9f%93%9a+DATA+Scientist+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
