@@ -11,8 +11,6 @@
 
 
 
-
-
 - 📫 How to reach me **baydagnurhat31@gmail.com**
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nurhat36/nurhat36/blob/output/github-contribution-grid-snake-dark.svg">
