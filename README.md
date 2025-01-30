@@ -9,8 +9,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurhat36&label=Profile%20views&color=0e75b6&style=flat" alt="nurhat36" /> </p>
 - 🔭 I’m currently working on **Python**
 
-
-
 - 📫 How to reach me **baydagnurhat31@gmail.com**
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nurhat36/nurhat36/blob/output/github-contribution-grid-snake-dark.svg">
