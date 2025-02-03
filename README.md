@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/C4D12AQGD_su1k14bYA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1583217311227?e=1736985600&v=beta&t=5CmJjRUhz0AarOYg5bjUYwEZCTFcoY4vvXhDvFYvkPQ)
+![MasterHead](https://images.prismic.io/turing/652ec221fbd9a45bcec81935_data_science_application_c57b13e499.webp?auto=format%2Ccompress&fit=max&w=3840)
 <h1 align="center">Hi 👋, I'm Nurhat Baydağ</h1>
 <h3 align="center">A passionate Data Scientist from Turkey</h3>
 <div align="center">
@@ -52,8 +52,16 @@
 [![Nurhat's github stats](https://bad-apple-github-readme.vercel.app/api?username=nurhat36&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)  
 
 
-## ⚡Activity Graph
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=nurhat36&theme=react-dark"/>
+
+
+
+
+
+<br />
+ ## ⚡Activity Graph
+ <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=nurhat36&theme=react-dark"/>
+<br />
+
 
 
 
