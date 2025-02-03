@@ -50,15 +50,13 @@
 <img align="right" alt="Coding" width="320" src="https://github.com/yasir-shahzad/yasir-shahzad/blob/resources/media/Cat-animation.gif">
 
 [![Nurhat's github stats](https://bad-apple-github-readme.vercel.app/api?username=nurhat36&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)  
-[![Nurhat's current streak](https://streak-stats.demolab.com/?user=nurhat36&count_private=true&theme=blue-green&title_color=00b3ff)](#)  
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=nurhat36&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
 
 ## ⚡Activity Graph
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=nurhat36&theme=react-dark"/>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yasir-Shahzad&theme=default&no-frame=false&no-bg=false&margin-w=4)
+
 
 # Github Stats
 
