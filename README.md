@@ -127,6 +127,6 @@
  -->
  <details open>
 <summary>
-	    <img alt="DIMFLIX's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=nurhat36&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
+	    <img alt="Nurhat's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=nurhat36&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
 	</div>
 </details>
