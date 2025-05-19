@@ -115,6 +115,7 @@
 
 
 <br />
+<a href="https://wakatime.com/@a2433091-bc2f-4dbc-a619-d1c6b79f3c29"><img src="https://wakatime.com/badge/user/a2433091-bc2f-4dbc-a619-d1c6b79f3c29.svg" alt="Total time coded since Feb 6 2025" /></a>
 <!--
 </details>
 -->
@@ -127,3 +128,5 @@
 	    <img alt="Nurhat's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=nurhat36&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
 	</div>
 </details>
+
+
