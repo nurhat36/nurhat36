@@ -16,9 +16,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-
-   
 -   <summary><h2>📸 My Latest YouTube Videos</h2></summary>
 <!-- BEGIN YOUTUBE-CARDS -->
 [![#coding #windows #python #programmin #tutorial #powerpoint #education #asmrsound #asmrvideo #asmr](https://ytcards.demolab.com/?id=pbBJDsbXuF8&title=%23coding+%23windows+%23python+%23programmin+%23tutorial+%23powerpoint+%23education+%23asmrsound+%23asmrvideo+%23asmr&lang=en&timestamp=1734958471&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "#coding #windows #python #programmin #tutorial #powerpoint #education #asmrsound #asmrvideo #asmr")](https://www.youtube.com/shorts/pbBJDsbXuF8)
