@@ -49,9 +49,6 @@
 
 
 
-
-
-
 <br />
  ## ⚡Activity Graph
  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=nurhat36&theme=react-dark"/>
