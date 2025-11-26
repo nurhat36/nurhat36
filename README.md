@@ -58,7 +58,7 @@
   <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=nurhat36&theme=material-palenight&show_icons=true&count_private=true" alt="CagatayAkkas" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=nurhat36&theme=material-palenight&show_icons=true&count_private=true" alt="Nurhat36" />
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
@@ -98,11 +98,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=nurhat36&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 
-
-
-
 <br />
-
 
 <br />
 <a href="https://wakatime.com/@a2433091-bc2f-4dbc-a619-d1c6b79f3c29"><img src="https://wakatime.com/badge/user/a2433091-bc2f-4dbc-a619-d1c6b79f3c29.svg" alt="Total time coded since Feb 6 2025" /></a>
