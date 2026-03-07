@@ -105,4 +105,5 @@
 	    <img alt="Nurhat's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=nurhat36&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
 	</div>
 </details>
-
+<figure><img src="https://wakatime.com/share/@nurhat36/573949be-7b5c-48bc-a7d6-739e3bfc164e.svg"></embed></figure>
+<figure><img src="https://wakatime.com/share/@nurhat36/f66a1ff0-5233-4865-ae56-b6f1d44d5eba.svg"></embed></figure>
