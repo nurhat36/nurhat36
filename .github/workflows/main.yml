@@ -2,7 +2,7 @@ name: Generate Profile Animations
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: '0 3 * * *' # Her gün saat 03:00 UTC'de çalışır
   workflow_dispatch:
   push:
     branches:
@@ -11,12 +11,15 @@ on:
 
 jobs:
   generate:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       # 1. Snake Animasyonunu Oluştur
       - name: Generate Snake SVGs
         uses: Platane/snk/svg-only@v3
@@ -28,16 +31,26 @@ jobs:
 
       # 2. Pacman Animasyonunu Oluştur
       - name: Generate Pacman SVGs
-        uses: abyss-r/pacman-contribution-graph@master
+        id: generate_pacman
+        continue-on-error: true
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: nurhat36
-          outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg
 
-      # 3. Hepsini Tek Seferde Output Branch'ine Gönder
-      - name: Push all to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      # 3. Klasör Kontrolü
+      - name: Verify output was generated
+        id: check_dist
+        run: |
+          if [ -d "dist" ] && [ "$(ls -A dist 2>/dev/null)" ]; then
+            echo "exists=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "exists=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      # 4. Hepsini Tek Seferde Output Branch'ine Gönder
+      - name: Publish graphs to output branch
+        if: steps.check_dist.outputs.exists == 'true'
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
