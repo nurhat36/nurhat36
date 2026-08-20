@@ -43,7 +43,7 @@
 
 <img align="right" alt="Coding" width="320" src="https://github.com/yasir-shahzad/yasir-shahzad/blob/resources/media/Cat-animation.gif">
 
-[![Nurhat's github stats](https://bad-apple-github-readme.vercel.app/api?username=nurhat36&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)  
+[![Nurhat's github stats](https://gh-readme-profile.vercel.app/api?username=nurhat36&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3)](#)  
 <br />
  ## ⚡Activity Graph
  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=nurhat36&theme=react-dark"/>
@@ -56,7 +56,7 @@
   <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=nurhat36&theme=material-palenight&show_icons=true&count_private=true" alt="Nurhat36" />
+      <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nurhat36&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" alt="Nurhat36" />
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
@@ -65,7 +65,7 @@
  
   <a>
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurhat36&theme=material-palenight&hide_border=false" alt="NurhatBaydag" width="55%" />
+    <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=nurhat36&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" alt="NurhatBaydag" width="55%" />
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
@@ -77,7 +77,7 @@
   <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurhat36&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="nurhat baydağ" />
+    <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Maher-Elmair&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" alt="nurhat baydağ" />
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
   </a>
 </p>
@@ -88,7 +88,7 @@
 
 <br />
 
-![](https://github-profile-trophy.vercel.app/?username=nurhat36&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-repo.vercel.app/?username=nurhat36&theme=aura&no-frame=false&no-bg=true&margin-w=4)
 <br />
 
 
