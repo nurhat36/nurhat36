@@ -92,7 +92,7 @@
   <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
-    <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Maher-Elmair&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" alt="nurhat baydağ" />
+    <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nurhat36&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" alt="nurhat baydağ" />
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
   </a>
 </p>
