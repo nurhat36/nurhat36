@@ -18,6 +18,7 @@
 
 
 
+
 -   <summary><h2>📸 My Latest YouTube Videos</h2></summary>
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Btk akademi hackathon 2025 yarışması e ticaret sitesi proje sunumu](https://ytcards.demolab.com/?id=H4vnDak0I0M&title=Btk+akademi+hackathon+2025+yar%C4%B1%C5%9Fmas%C4%B1+e+ticaret+sitesi+proje+sunumu&lang=en&timestamp=1754505956&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Btk akademi hackathon 2025 yarışması e ticaret sitesi proje sunumu")](https://www.youtube.com/watch?v=H4vnDak0I0M)
@@ -42,16 +43,7 @@
 <!-- BEGIN YOUTUBE-CARDS -->
 
 
-<summary><h2>🟡 Pacman Contribution Graph</h2></summary>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nurhat36/nurhat36/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nurhat36/nurhat36/output/pacman-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/nurhat36/nurhat36/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
-  </picture>
-  <br/>
-  <sub><i>Auto-generated every 12 hours via GitHub Actions.</i></sub>
-</div>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
