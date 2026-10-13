@@ -1,4 +1,4 @@
-![MasterHead](https://images.prismic.io/turing/652ec221fbd9a45bcec81935_data_science_application_c57b13e499.webp?auto=format%2Ccompress&fit=max&w=3840)
+![MasterHead](https://muratbilginer.net/wp-content/uploads/2023/12/0_cl7fc6pt1MHjIF4K.png)
 <h1 align="center">Hi 👋, I'm Nurhat Baydağ</h1>
 <h3 align="center">A passionate Data Scientist from Turkey</h3>
 <div align="center">
