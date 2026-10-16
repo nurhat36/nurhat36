@@ -1,13 +1,13 @@
 ![MasterHead](https://muratbilginer.net/wp-content/uploads/2023/12/0_cl7fc6pt1MHjIF4K.png)
 <h1 align="center">Hi 👋, I'm Nurhat Baydağ</h1>
-<h3 align="center">A passionate Data Scientist from Turkey</h3>
+<h3 align="center">A passionate Full Stack Dev from Turkey</h3>
 <div align="center">
  <a href="https://github.com/CagatayAkkas">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Nurhat+BAYDAĞ+%e2%9c%a8;%f0%9f%93%9a+DATA+Scientist+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurhat36&label=Profile%20views&color=0e75b6&style=flat" alt="nurhat36" /> </p>
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **C#**
 
 - 📫 How to reach me **baydagnurhat31@gmail.com**
 <picture>
