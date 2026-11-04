@@ -16,9 +16,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nurhat36/nurhat36/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-
-
 -   <summary><h2>📸 My Latest YouTube Videos</h2></summary>
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Btk akademi hackathon 2025 yarışması e ticaret sitesi proje sunumu](https://ytcards.demolab.com/?id=H4vnDak0I0M&title=Btk+akademi+hackathon+2025+yar%C4%B1%C5%9Fmas%C4%B1+e+ticaret+sitesi+proje+sunumu&lang=en&timestamp=1754505956&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Btk akademi hackathon 2025 yarışması e ticaret sitesi proje sunumu")](https://www.youtube.com/watch?v=H4vnDak0I0M)
